@@ -1,5 +1,7 @@
 # Gatitobook
 
+Baixar a API deste projeto: https://github.com/ErvalSouza/gatitoBook-api.git
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
 ## Development server
